@@ -5,6 +5,6 @@ Como crear un alias en Google Apps
 
 ![Paso uno](./imagen/img01.png)
 
-<img src="./imagen/img01.png" height="200" />
+<img src="https://www.evernote.com/l/ACu5sMDZsORGJq0sWSXllLqsGNFYdyEaEB0B/image.png" height="200" />
 
 <!--  https://github.com/almapase/CrearAliasGoogleApps/blob/master/images/img01.png -->
